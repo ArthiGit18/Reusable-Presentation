@@ -7,11 +7,24 @@
   font-family: "Libertinus Mono", monospace;
 }
 
-.name_edit{
+.name_edit {
   font-size: 30px;
   font-weight: 700;
   color: white;
-  margin-bottom: 20px;
+  margin: 20px 0;
   text-align: center;
+}
 
+.title1_content{
+  font-size: 40px;
+  font-weight: 700;
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+}
+
+span{
+  text-decoration: none !important;
 }
